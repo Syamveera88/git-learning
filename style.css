@@ -1,0 +1,25 @@
+body{
+    text-decoration: none;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+ul{
+    height: 50px;
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+}
+ul li{
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+ul li a{
+    text-decoration: none;
+   
+}
